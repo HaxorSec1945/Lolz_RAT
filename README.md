@@ -10,7 +10,7 @@
 # chmod +x Lolz_RAT
 # ./Lolz_RAT
 
-#coded By ./Mrcakil
-#greetz : 99syndicate - Anon Cyber Team
-#blog : http://99-syndicate.blogspot.com
-#facebook : http://www.facebook.com/dendisaimam.dendisaimam.1
+# coded By ./Mrcakil
+# greetz : 99syndicate - Anon Cyber Team
+# blog : http://99-syndicate.blogspot.com
+# facebook : http://www.facebook.com/dendisaimam.dendisaimam.1
