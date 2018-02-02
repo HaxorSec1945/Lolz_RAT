@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Link
+Name=Synaptic Package Manager
+Icon=synaptic
+URL=/usr/share/applications/synaptic.desktop

@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Link
+Name=Document Viewer
+Icon=evince
+URL=/usr/share/applications/evince.desktop
